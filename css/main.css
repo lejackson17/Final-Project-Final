@@ -1,0 +1,70 @@
+html {
+  background-color: #0000FF;
+}
+
+.dropdown {
+  margin: 30px;
+  font-weight: bold;
+  font-style: italic;
+  font-variant: small-caps;
+}
+.story {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+}
+
+.name {
+  font-style: italic;
+}
+
+.date {
+  font-style: italic;
+  color: blue;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 75%;
+  border: 2px solid grey;
+}
+
+h1 {
+  font-family: 'Amatic SC' cursive;
+  font-variant: small-caps;
+}
+
+h2 {
+  font-size-adjust: auto;
+}
+
+h3 {
+  font-family: serif;
+}
+
+body {
+  margin: 20px;
+  font-size: 2vw;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.caption {
+  font-size: 1.5vw;
+  margin: 40px;
+  text-align: center;
+  background-color: grey;
+  font-style: italic;
+  color: #FFFFFF;
+  font-weight: lighter;
+}
+
+.bio {
+  display: block;
+  width: 99%;
+  border: 2px solid #ADD8FF;
+  padding: 25px;
+  margin: auto;
+  background-color: #E3E3E3;
+  font-family: monospace;
+}
